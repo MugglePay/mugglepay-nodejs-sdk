@@ -1,0 +1,23 @@
+{
+  "name": "mugglepay-nodejs-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mugglepay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruofeixu/mugglepay-nodejs-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruofeixu/mugglepay-nodejs-sdk/issues"
+  },
+  "homepage": "https://github.com/ruofeixu/mugglepay-nodejs-sdk#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
